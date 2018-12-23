@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+*.json
+*.pyc
+phantomjs-2.1.1-windows
+out
+gen
+forAWS/WithinEachModel/WithinEachModel/ghostdriver.log
